@@ -1,3 +1,6 @@
+# Arman Rafiee
+# Jason Snytte
+
 class Encode():
     def __init__(self, str):
         self.str = str
